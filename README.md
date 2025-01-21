@@ -1,2 +1,0 @@
-# GoInspect
-GoInspect
