@@ -8,6 +8,10 @@ GoInspect is a lightweight tool written in Go for detecting technologies used by
 - Provides CVE IDs, descriptions, and severity ratings.
 
 ---
+## Output
+
+![Alt text](image.png)
+
 
 ## Setup
 
