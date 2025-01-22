@@ -10,7 +10,7 @@ GoInspect is a lightweight tool written in Go for detecting technologies used by
 ---
 ## Output
 
-![Alt text](image.png)
+
 
 
 ## Setup
